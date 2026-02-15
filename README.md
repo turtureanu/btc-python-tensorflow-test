@@ -1,4 +1,5 @@
 # Primitive BTC/USD price prediction
+<img width="1918" height="1033" alt="Figure_1" src="https://github.com/user-attachments/assets/31c89ccf-9f5c-4bef-886e-e2b48dacb5d0" />
 
 Outputs a matplot graph showing the historical and predicted prize in USD in red and green respectively.
 
@@ -22,4 +23,4 @@ Specifically, I'm using LSTM models, which are a pain to use, because I constant
 
 ## Is it successful?
 
-Kind of, the output looks plausible, but it is not applicable. It does, however, perform as I expected, and so it does reach the goal it was designed for.
+Kind of, the output looks plausible at first glance, but it is not applicable at all. It does, however, perform as I expected, and so it does reach the goal it was designed for.
